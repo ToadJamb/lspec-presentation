@@ -1,0 +1,23 @@
+Intro / Goals
+- Ass
+- goal of this presentation
+- IE7
+- examples will contain code structured as I believe it should be, not as examples you will find.
+- encourage feedback - questions, agreements, disagreements.
+
+
+getting started
+- setup
+- controllers
+- services / factories
+- ng-repeat
+- resource?
+
+
+what's wrong?
+- controllers are global functions.
+- syntax could be cleaner.
+- very little standardization
+- overuse of $scope, $resource, etc. in examples
+- select directive - object OR set initial value
+
